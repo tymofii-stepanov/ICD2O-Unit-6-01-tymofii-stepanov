@@ -1,23 +1,20 @@
 // Copyright (c) 2020 Mr. Coxall All rights reserved
 //
-// Created by: Mr. Coxall
+// Created by: Tymofii
 // Created on: Sep 2020
 // This file contains the JS functions for index.html
 
-"use strict"
+function divideNumbers() {
+  const dividend = parseInt(document.getElementById('dividendInput').value);
+  let divisor = parseInt(document.getElementById('divisorInput').value);
 
-/**
- * Check servie worker.
- */
-if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICD2O-Unit-6-01-tymofii-stepanov/sw.js", {
-    scope: "/ICD2O-Unit-6-01-tymofii-stepanov/",
-  })
-}
+  let quotient = 0;
+  let remainder = dividend;
 
-/**
- * This function displays an alert.
- */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
+  while (remainder >= divisor) {
+    remainder -= divisor;
+    quotient++;
+  }
+
+  document.getElementById("divisionResult").innerHTML = "<p>" + dividend + " / " + divisor + " = " + quotient + " R " + remainder + "</p>";
 }
