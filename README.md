@@ -1,7 +1,7 @@
 # ICS2O-PWA-Template-HTML
 
-[![Mr Coxall's Super Linter](https://github.com/tymofii-stepanov/ICS2O-PWA-Test/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/tymofii-stepanov/ICS2O-PWA-Test/actions)
+[![Mr Coxall's Super Linter](https://github.com/tymofii-stepanov/ICD2O-Unit-6-01-tymofii-stepanov/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/tymofii-stepanov/ICD2O-Unit-6-01-tymofii-stepanov/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/tymofii-stepanov/ICS2O-PWA-Test)](https://repl.it/github/tymofii-stepanov/ICS2O-PWA-Test)
+[![Run on Repl.it](https://repl.it/badge/github/tymofii-stepanov/ICD2O-Unit-6-01-tymofii-stepanov)](https://repl.it/github/tymofii-stepanov/ICD2O-Unit-6-01-tymofii-stepanov)
 
-This site can be found at: [https://tymofii-stepanov.github.io/ICS2O-PWA-Test/](https://tymofii-stepanov.github.io/ICS2O-PWA-Test/)
+This site can be found at: [https://tymofii-stepanov.github.io/ICD2O-Unit-6-01-tymofii-stepanov/](https://tymofii-stepanov.github.io/ICD2O-Unit-6-01-tymofii-stepanov/)
